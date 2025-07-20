@@ -1,0 +1,501 @@
+HouseID,Location,Size_sqft,Num_Rooms,House_Type,Age_Years,Price_Lakhs
+1,Pune,3674,4,Villa,21,479.19
+2,Kolkata,1360,2,Apartment,14,170.9
+3,Bangalore,1794,6,Apartment,23,372.41
+4,Chennai,1630,6,Villa,29,253.19
+5,Hyderabad,1595,3,Independent House,10,316.5
+6,Kolkata,3592,4,Independent House,15,493.47
+7,Chennai,2138,5,Apartment,28,328.41
+8,Mumbai,2669,1,Villa,16,498.23
+9,Hyderabad,966,5,Apartment,25,176.84
+10,Chennai,1738,4,Apartment,3,359.8
+11,Bangalore,830,4,Villa,0,255.37
+12,Delhi,1982,4,Independent House,7,476.77
+13,Pune,2635,5,Apartment,16,374.14
+14,Bangalore,3944,4,Independent House,2,929.07
+15,Mumbai,3671,6,Apartment,28,642.57
+16,Chennai,3419,5,Independent House,19,538.08
+17,Mumbai,630,4,Apartment,14,175.81
+18,Hyderabad,2185,6,Apartment,14,393.0
+19,Pune,3880,3,Independent House,23,478.13
+20,Mumbai,1269,4,Independent House,21,277.63
+21,Mumbai,2891,5,Apartment,13,644.84
+22,Pune,2015,2,Apartment,25,251.27
+23,Delhi,3985,4,Villa,27,700.61
+24,Bangalore,3353,2,Villa,22,619.33
+25,Pune,2933,6,Apartment,13,445.01
+26,Bangalore,1715,3,Independent House,23,326.7
+27,Delhi,1455,1,Villa,1,335.66
+28,Hyderabad,2824,3,Apartment,12,478.03
+29,Chennai,1684,4,Independent House,25,258.58
+30,Hyderabad,959,2,Villa,13,181.22
+31,Delhi,3885,2,Apartment,26,662.78
+32,Mumbai,521,5,Villa,23,160.53
+33,Delhi,2800,2,Apartment,18,537.53
+34,Hyderabad,1247,5,Villa,6,272.12
+35,Pune,3404,6,Villa,2,560.85
+36,Chennai,974,1,Independent House,14,151.34
+37,Bangalore,1582,4,Apartment,22,324.24
+38,Mumbai,3058,5,Villa,13,667.19
+39,Delhi,2547,1,Apartment,10,528.62
+40,Delhi,3247,2,Villa,14,640.67
+41,Delhi,1475,2,Apartment,27,281.18
+42,Pune,2306,1,Independent House,12,314.07
+43,Bangalore,689,2,Independent House,17,145.63
+44,Chennai,3505,6,Independent House,25,543.38
+45,Mumbai,3234,6,Independent House,5,782.94
+46,Pune,3505,1,Independent House,2,513.03
+47,Bangalore,1062,5,Independent House,18,246.99
+48,Chennai,2399,5,Villa,14,420.74
+49,Hyderabad,1767,1,Independent House,24,253.82
+50,Kolkata,3379,5,Apartment,22,440.57
+51,Delhi,2028,5,Villa,4,519.55
+52,Pune,3702,6,Apartment,27,454.56
+53,Pune,1146,5,Villa,9,215.4
+54,Kolkata,2568,3,Apartment,6,391.56
+55,Chennai,3388,4,Independent House,24,492.36
+56,Kolkata,2714,2,Villa,16,358.73
+57,Pune,1797,3,Villa,6,280.89
+58,Bangalore,2935,5,Villa,21,555.16
+59,Chennai,1100,6,Apartment,25,196.89
+60,Mumbai,2863,1,Apartment,29,471.16
+61,Hyderabad,2561,5,Apartment,11,459.43
+62,Mumbai,741,6,Independent House,24,188.65
+63,Kolkata,2541,4,Villa,16,362.88
+64,Hyderabad,3324,5,Apartment,12,570.16
+65,Mumbai,3917,1,Villa,19,733.14
+66,Mumbai,3112,6,Independent House,24,587.22
+67,Kolkata,3445,6,Apartment,3,587.06
+68,Kolkata,1863,6,Villa,9,306.74
+69,Hyderabad,2639,4,Independent House,2,509.33
+70,Pune,1890,5,Apartment,8,318.25
+71,Chennai,3503,4,Apartment,12,592.93
+72,Chennai,1978,2,Villa,17,329.98
+73,Chennai,3999,2,Villa,14,643.4
+74,Delhi,3056,5,Villa,3,738.54
+75,Chennai,1275,4,Apartment,14,236.4
+76,Pune,534,1,Villa,21,83.25
+77,Bangalore,2753,6,Independent House,1,704.64
+78,Kolkata,3652,6,Apartment,14,527.03
+79,Pune,2455,5,Independent House,7,394.38
+80,Bangalore,2085,2,Independent House,7,465.52
+81,Bangalore,3959,2,Independent House,16,778.65
+82,Chennai,3573,6,Villa,11,635.29
+83,Chennai,1521,5,Independent House,18,273.2
+84,Kolkata,3961,4,Apartment,9,565.89
+85,Hyderabad,3113,2,Independent House,8,540.57
+86,Hyderabad,1629,4,Apartment,4,310.38
+87,Kolkata,2000,2,Apartment,5,306.84
+88,Chennai,1202,2,Villa,19,191.89
+89,Kolkata,2949,3,Independent House,25,358.01
+90,Chennai,3277,2,Villa,1,597.23
+91,Mumbai,2079,1,Villa,26,336.06
+92,Chennai,661,5,Independent House,23,134.31
+93,Bangalore,701,5,Villa,26,161.76
+94,Delhi,2481,4,Villa,12,526.23
+95,Bangalore,1495,2,Apartment,5,355.74
+96,Kolkata,2817,1,Apartment,4,431.26
+97,Mumbai,1315,4,Villa,24,262.5
+98,Pune,3842,3,Independent House,0,605.54
+99,Chennai,955,4,Independent House,20,172.84
+100,Pune,1775,4,Villa,21,235.35
+101,Delhi,1516,2,Apartment,20,303.52
+102,Chennai,2843,3,Apartment,5,530.45
+103,Hyderabad,3267,4,Independent House,5,595.57
+104,Mumbai,837,1,Villa,22,159.04
+105,Bangalore,1378,1,Villa,15,289.14
+106,Bangalore,1576,5,Villa,3,423.6
+107,Delhi,1291,3,Villa,29,246.56
+108,Kolkata,2764,3,Independent House,10,413.82
+109,Delhi,1263,5,Independent House,29,268.56
+110,Kolkata,2735,4,Apartment,29,329.96
+111,Delhi,879,3,Villa,29,173.82
+112,Kolkata,992,1,Apartment,23,118.45
+113,Bangalore,3612,1,Villa,22,646.64
+114,Delhi,1680,2,Independent House,8,370.02
+115,Delhi,2562,3,Apartment,22,465.21
+116,Kolkata,564,4,Apartment,2,119.31
+117,Bangalore,3068,5,Villa,18,631.12
+118,Bangalore,1867,5,Apartment,7,454.55
+119,Hyderabad,1652,4,Apartment,4,329.62
+120,Mumbai,2527,6,Villa,3,637.28
+121,Chennai,3195,2,Villa,23,474.88
+122,Hyderabad,1995,5,Villa,5,394.55
+123,Kolkata,3634,3,Apartment,1,582.92
+124,Kolkata,1662,2,Villa,19,191.01
+125,Kolkata,2022,3,Apartment,27,256.79
+126,Bangalore,3140,1,Villa,10,662.32
+127,Pune,891,2,Apartment,3,158.06
+128,Chennai,2198,5,Apartment,14,371.73
+129,Pune,918,2,Apartment,5,160.0
+130,Chennai,2836,2,Independent House,21,421.74
+131,Hyderabad,878,2,Villa,16,127.62
+132,Kolkata,2296,6,Independent House,29,300.11
+133,Mumbai,2778,2,Apartment,23,518.83
+134,Kolkata,3565,3,Villa,5,517.47
+135,Delhi,2588,1,Villa,18,491.54
+136,Bangalore,3599,4,Villa,29,631.43
+137,Chennai,2682,2,Apartment,24,397.44
+138,Kolkata,700,5,Apartment,1,161.81
+139,Hyderabad,2363,2,Apartment,14,359.96
+140,Delhi,1279,5,Independent House,10,333.79
+141,Chennai,3477,3,Villa,7,613.35
+142,Kolkata,3604,5,Villa,25,452.91
+143,Hyderabad,3619,4,Villa,18,576.09
+144,Bangalore,1002,1,Villa,12,211.4
+145,Mumbai,2954,5,Villa,11,664.7
+146,Pune,2251,5,Villa,4,370.42
+147,Chennai,1304,1,Independent House,5,234.14
+148,Hyderabad,2646,4,Apartment,25,387.66
+149,Delhi,3231,2,Villa,21,581.96
+150,Delhi,2395,5,Villa,3,601.14
+151,Hyderabad,3273,1,Villa,18,484.87
+152,Pune,2070,3,Apartment,19,273.8
+153,Kolkata,1460,1,Independent House,0,231.87
+154,Kolkata,3160,3,Villa,19,387.39
+155,Chennai,1985,4,Villa,16,321.84
+156,Bangalore,3190,2,Independent House,11,662.5
+157,Delhi,1528,1,Apartment,14,313.11
+158,Mumbai,3789,6,Independent House,0,949.97
+159,Mumbai,1002,5,Villa,25,209.42
+160,Pune,3314,4,Independent House,13,473.64
+161,Bangalore,897,1,Apartment,5,203.53
+162,Hyderabad,1370,5,Villa,4,285.5
+163,Pune,3342,1,Apartment,29,356.54
+164,Hyderabad,892,3,Villa,10,184.92
+165,Kolkata,706,1,Villa,3,115.16
+166,Bangalore,1538,6,Apartment,12,384.23
+167,Delhi,2381,1,Apartment,10,498.09
+168,Hyderabad,3439,1,Independent House,2,627.68
+169,Hyderabad,1984,6,Apartment,0,428.15
+170,Bangalore,1363,4,Independent House,5,348.88
+171,Kolkata,3290,1,Independent House,17,429.29
+172,Hyderabad,3812,6,Villa,23,580.47
+173,Delhi,1063,5,Apartment,9,292.08
+174,Chennai,1520,3,Independent House,4,292.18
+175,Bangalore,595,3,Villa,22,135.36
+176,Chennai,2423,1,Independent House,9,406.77
+177,Kolkata,2257,4,Villa,11,342.06
+178,Mumbai,3032,4,Villa,1,746.72
+179,Bangalore,3978,5,Villa,12,854.61
+180,Mumbai,2778,1,Independent House,7,580.25
+181,Mumbai,3296,3,Apartment,1,785.05
+182,Kolkata,2178,4,Villa,19,321.57
+183,Bangalore,3742,1,Apartment,0,858.04
+184,Hyderabad,1040,4,Apartment,4,208.7
+185,Pune,1559,6,Apartment,8,272.04
+186,Mumbai,3072,4,Villa,16,630.98
+187,Pune,1683,3,Villa,8,258.98
+188,Pune,2222,2,Independent House,10,327.42
+189,Chennai,3814,5,Villa,14,655.79
+190,Bangalore,3657,5,Apartment,23,698.16
+191,Kolkata,2319,3,Independent House,5,357.63
+192,Chennai,3125,4,Apartment,22,487.45
+193,Bangalore,3229,1,Villa,2,711.76
+194,Delhi,3104,4,Villa,29,531.3
+195,Hyderabad,2097,3,Villa,16,341.26
+196,Chennai,3560,5,Apartment,4,672.46
+197,Hyderabad,3193,4,Apartment,29,447.21
+198,Delhi,1295,5,Independent House,27,265.45
+199,Delhi,1551,1,Apartment,11,314.88
+200,Bangalore,2143,5,Independent House,17,472.2
+201,Hyderabad,1863,5,Apartment,13,341.59
+202,Hyderabad,2481,2,Apartment,20,377.49
+203,Bangalore,1854,2,Independent House,23,349.82
+204,Mumbai,2163,6,Villa,10,519.4
+205,Bangalore,2029,2,Villa,8,448.04
+206,Hyderabad,2538,5,Independent House,1,521.98
+207,Hyderabad,3919,3,Independent House,11,661.38
+208,Hyderabad,1996,5,Villa,2,419.52
+209,Hyderabad,3802,3,Independent House,2,711.4
+210,Hyderabad,2737,3,Villa,0,548.83
+211,Pune,3796,2,Independent House,7,552.24
+212,Bangalore,1908,4,Apartment,21,392.93
+213,Kolkata,1900,1,Independent House,27,226.37
+214,Bangalore,1806,2,Villa,28,314.81
+215,Chennai,3180,2,Independent House,7,548.27
+216,Delhi,3175,4,Apartment,10,692.2
+217,Delhi,1472,1,Apartment,8,313.86
+218,Chennai,2268,5,Villa,4,440.01
+219,Delhi,1782,6,Villa,13,430.3
+220,Bangalore,3930,6,Independent House,27,704.91
+221,Bangalore,1209,5,Apartment,29,248.34
+222,Delhi,1979,2,Villa,2,464.18
+223,Bangalore,1934,1,Apartment,20,359.7
+224,Pune,1148,2,Apartment,4,190.07
+225,Bangalore,817,3,Apartment,4,214.25
+226,Delhi,3796,2,Villa,18,731.35
+227,Delhi,1757,2,Villa,26,330.41
+228,Delhi,1183,5,Villa,13,300.25
+229,Chennai,1163,5,Independent House,25,194.18
+230,Delhi,2498,5,Villa,29,446.16
+231,Hyderabad,3945,6,Independent House,3,756.15
+232,Delhi,2131,3,Apartment,24,392.65
+233,Hyderabad,1995,5,Independent House,12,358.9
+234,Chennai,3804,1,Apartment,9,635.56
+235,Bangalore,1636,6,Apartment,24,345.94
+236,Chennai,2353,4,Apartment,17,393.28
+237,Bangalore,2020,1,Independent House,7,448.5
+238,Kolkata,2989,1,Apartment,7,423.9
+239,Pune,1063,5,Independent House,6,185.03
+240,Chennai,1791,4,Villa,7,340.46
+241,Mumbai,3957,4,Apartment,13,834.49
+242,Kolkata,3958,6,Villa,18,542.8
+243,Hyderabad,3684,4,Villa,28,517.19
+244,Hyderabad,2136,3,Apartment,5,393.21
+245,Kolkata,3499,5,Independent House,0,582.37
+246,Bangalore,3652,4,Apartment,22,697.49
+247,Delhi,1198,6,Independent House,14,302.26
+248,Delhi,2660,3,Villa,0,643.08
+249,Chennai,501,2,Villa,24,106.98
+250,Hyderabad,1141,2,Independent House,16,185.28
+251,Mumbai,2767,3,Independent House,0,650.52
+252,Pune,2089,6,Independent House,14,334.91
+253,Delhi,1354,3,Villa,22,284.09
+254,Chennai,2259,5,Independent House,1,457.38
+255,Bangalore,3796,5,Apartment,13,807.19
+256,Bangalore,2932,2,Villa,20,539.51
+257,Delhi,3974,4,Villa,7,888.25
+258,Kolkata,2161,6,Villa,7,368.92
+259,Delhi,1653,2,Apartment,18,324.15
+260,Delhi,1576,4,Apartment,6,398.5
+261,Mumbai,2207,4,Villa,18,461.03
+262,Mumbai,3277,5,Villa,5,777.49
+263,Delhi,2195,1,Apartment,5,478.59
+264,Bangalore,2233,1,Villa,2,503.53
+265,Pune,1939,3,Villa,6,283.13
+266,Kolkata,2794,5,Villa,18,379.0
+267,Delhi,1335,4,Apartment,7,346.78
+268,Hyderabad,702,6,Apartment,9,171.21
+269,Hyderabad,3755,1,Villa,19,549.4
+270,Kolkata,622,4,Independent House,14,121.04
+271,Delhi,900,1,Villa,14,191.08
+272,Chennai,1266,1,Apartment,28,179.61
+273,Bangalore,793,1,Apartment,0,181.79
+274,Delhi,2827,6,Apartment,19,613.76
+275,Delhi,3431,5,Villa,29,589.19
+276,Hyderabad,697,6,Villa,6,187.15
+277,Chennai,3529,2,Apartment,26,486.24
+278,Delhi,2430,4,Independent House,3,576.68
+279,Chennai,3299,5,Independent House,28,467.05
+280,Hyderabad,2691,5,Villa,5,517.39
+281,Chennai,1108,5,Independent House,24,190.67
+282,Mumbai,3772,5,Apartment,0,933.07
+283,Delhi,1647,6,Independent House,28,330.0
+284,Delhi,686,5,Independent House,4,206.76
+285,Hyderabad,3897,3,Villa,26,531.46
+286,Bangalore,3011,4,Apartment,22,581.29
+287,Bangalore,3920,5,Villa,0,942.13
+288,Delhi,2294,4,Apartment,29,412.23
+289,Pune,1159,3,Villa,3,202.18
+290,Chennai,3311,3,Apartment,21,489.31
+291,Chennai,3502,4,Independent House,1,680.48
+292,Hyderabad,2455,1,Independent House,9,395.87
+293,Hyderabad,2950,2,Villa,4,535.76
+294,Delhi,1869,1,Independent House,26,321.88
+295,Pune,2486,1,Independent House,9,347.25
+296,Hyderabad,2034,6,Independent House,0,426.34
+297,Delhi,646,1,Independent House,21,117.31
+298,Delhi,3719,5,Apartment,5,882.37
+299,Chennai,3411,6,Apartment,12,615.81
+300,Mumbai,2234,6,Apartment,14,517.1
+301,Pune,2343,3,Independent House,3,379.4
+302,Kolkata,988,1,Independent House,12,147.68
+303,Delhi,3476,3,Independent House,23,633.63
+304,Mumbai,2459,4,Villa,19,497.23
+305,Hyderabad,2163,2,Independent House,23,303.55
+306,Delhi,3098,6,Villa,14,675.97
+307,Delhi,2885,4,Independent House,28,522.4
+308,Mumbai,3419,4,Apartment,7,764.62
+309,Hyderabad,1140,5,Apartment,4,264.82
+310,Kolkata,2302,2,Independent House,28,263.93
+311,Kolkata,3020,4,Apartment,14,410.13
+312,Kolkata,2469,4,Independent House,3,386.97
+313,Hyderabad,2698,2,Independent House,11,462.77
+314,Chennai,1938,2,Apartment,12,333.62
+315,Delhi,3869,4,Villa,1,922.24
+316,Bangalore,2134,2,Apartment,26,374.77
+317,Delhi,762,4,Villa,18,191.89
+318,Kolkata,2287,4,Apartment,18,322.9
+319,Chennai,2691,5,Independent House,3,542.81
+320,Pune,2893,1,Apartment,3,445.87
+321,Mumbai,1123,4,Independent House,25,238.23
+322,Bangalore,1516,3,Independent House,10,345.77
+323,Hyderabad,1380,6,Villa,26,238.56
+324,Chennai,2549,1,Apartment,4,457.21
+325,Chennai,3444,1,Villa,19,517.04
+326,Mumbai,1827,1,Apartment,10,396.55
+327,Mumbai,2801,5,Villa,29,521.87
+328,Hyderabad,952,4,Villa,9,197.57
+329,Mumbai,3608,5,Independent House,7,846.28
+330,Chennai,1683,4,Villa,5,345.12
+331,Pune,3562,5,Independent House,5,554.08
+332,Mumbai,2556,5,Apartment,7,619.58
+333,Mumbai,3804,6,Apartment,22,754.66
+334,Chennai,3670,3,Apartment,14,594.47
+335,Hyderabad,2182,5,Independent House,25,356.89
+336,Hyderabad,3363,6,Apartment,13,600.04
+337,Mumbai,2755,2,Apartment,10,608.57
+338,Pune,1654,3,Independent House,11,243.27
+339,Hyderabad,903,5,Villa,25,163.37
+340,Pune,2699,1,Villa,12,344.8
+341,Mumbai,2601,2,Villa,7,577.87
+342,Pune,3691,2,Apartment,29,411.04
+343,Delhi,2196,6,Independent House,17,479.17
+344,Delhi,1127,2,Independent House,24,214.7
+345,Kolkata,1086,3,Apartment,0,179.79
+346,Mumbai,2148,5,Apartment,14,492.12
+347,Bangalore,1943,5,Independent House,7,471.43
+348,Pune,1945,1,Apartment,27,251.22
+349,Delhi,603,6,Villa,10,201.35
+350,Bangalore,753,1,Independent House,11,156.54
+351,Pune,3798,2,Apartment,11,520.71
+352,Bangalore,3683,1,Villa,3,804.25
+353,Delhi,3057,3,Apartment,15,627.72
+354,Delhi,1996,5,Villa,3,504.18
+355,Mumbai,598,2,Independent House,4,169.28
+356,Hyderabad,2700,1,Apartment,23,380.71
+357,Mumbai,2384,6,Villa,4,615.19
+358,Chennai,3461,3,Apartment,7,620.43
+359,Hyderabad,2419,3,Independent House,9,429.28
+360,Mumbai,1377,1,Villa,16,288.66
+361,Chennai,837,5,Independent House,27,163.3
+362,Chennai,3369,1,Villa,25,493.28
+363,Bangalore,3734,2,Villa,8,796.44
+364,Chennai,1456,1,Villa,21,217.29
+365,Mumbai,2204,3,Villa,18,459.23
+366,Bangalore,660,1,Independent House,28,102.28
+367,Hyderabad,2103,5,Independent House,13,394.7
+368,Bangalore,3348,6,Villa,7,788.66
+369,Hyderabad,897,4,Independent House,8,183.82
+370,Hyderabad,1800,1,Villa,21,251.81
+371,Mumbai,1315,5,Villa,10,327.06
+372,Bangalore,2027,5,Villa,22,391.39
+373,Chennai,2419,6,Apartment,0,502.52
+374,Delhi,1915,3,Villa,13,420.24
+375,Hyderabad,1658,5,Independent House,4,339.34
+376,Bangalore,1718,5,Villa,20,383.12
+377,Bangalore,900,5,Independent House,25,224.72
+378,Chennai,1139,5,Villa,13,243.32
+379,Mumbai,3604,2,Villa,3,817.98
+380,Bangalore,3235,2,Independent House,21,575.47
+381,Delhi,959,3,Independent House,22,196.37
+382,Delhi,1454,1,Villa,24,258.61
+383,Mumbai,969,5,Villa,0,284.09
+384,Pune,3946,6,Villa,21,513.61
+385,Delhi,1545,1,Apartment,22,298.95
+386,Mumbai,3297,6,Apartment,18,665.64
+387,Pune,2193,1,Villa,7,333.34
+388,Kolkata,2585,3,Villa,14,368.11
+389,Bangalore,2777,5,Villa,20,562.54
+390,Kolkata,3936,5,Independent House,14,543.61
+391,Delhi,1062,4,Villa,8,266.29
+392,Chennai,2985,6,Villa,20,471.18
+393,Kolkata,2299,1,Apartment,8,343.63
+394,Delhi,3854,1,Independent House,9,818.13
+395,Mumbai,2574,2,Independent House,19,479.35
+396,Kolkata,725,4,Independent House,24,107.52
+397,Bangalore,3848,2,Villa,20,720.97
+398,Bangalore,1297,2,Apartment,25,238.37
+399,Delhi,2831,2,Independent House,8,594.43
+400,Pune,3426,6,Apartment,2,555.84
+401,Delhi,1459,6,Independent House,19,358.31
+402,Bangalore,2004,3,Villa,24,370.98
+403,Bangalore,952,3,Villa,25,192.77
+404,Delhi,3567,2,Apartment,10,737.87
+405,Mumbai,1315,4,Independent House,5,343.96
+406,Bangalore,1158,1,Villa,1,273.95
+407,Pune,1046,6,Independent House,6,196.47
+408,Chennai,1715,4,Apartment,17,283.01
+409,Chennai,3620,5,Villa,26,540.63
+410,Delhi,516,6,Independent House,1,187.98
+411,Chennai,3743,6,Independent House,26,556.89
+412,Hyderabad,1743,3,Apartment,16,272.24
+413,Kolkata,2705,1,Apartment,10,381.25
+414,Kolkata,3024,1,Independent House,26,352.77
+415,Hyderabad,1569,5,Independent House,11,315.7
+416,Mumbai,3944,5,Villa,26,710.56
+417,Hyderabad,3065,6,Independent House,18,527.27
+418,Bangalore,2646,2,Independent House,21,517.1
+419,Bangalore,2268,3,Apartment,23,424.36
+420,Bangalore,1560,3,Independent House,24,296.45
+421,Bangalore,2827,6,Apartment,6,684.0
+422,Hyderabad,3920,4,Apartment,19,605.64
+423,Mumbai,3044,2,Independent House,5,672.92
+424,Hyderabad,801,6,Apartment,20,167.58
+425,Mumbai,680,2,Apartment,23,158.07
+426,Mumbai,1106,2,Apartment,0,286.57
+427,Mumbai,3670,2,Independent House,16,714.02
+428,Mumbai,1199,6,Independent House,28,234.49
+429,Pune,1492,3,Independent House,10,212.98
+430,Pune,1639,3,Independent House,21,222.96
+431,Hyderabad,690,2,Villa,25,89.93
+432,Pune,2800,4,Apartment,27,338.73
+433,Mumbai,1480,1,Villa,17,278.18
+434,Bangalore,3475,6,Independent House,20,698.42
+435,Kolkata,2506,1,Villa,16,324.79
+436,Chennai,1684,4,Independent House,6,331.26
+437,Mumbai,3827,6,Independent House,16,794.96
+438,Delhi,3894,2,Villa,19,729.71
+439,Mumbai,627,3,Villa,8,163.98
+440,Kolkata,2565,1,Independent House,16,336.43
+441,Mumbai,2316,5,Apartment,19,490.89
+442,Kolkata,2258,5,Villa,21,294.88
+443,Pune,3113,4,Villa,21,399.97
+444,Pune,1069,2,Independent House,27,133.62
+445,Kolkata,1846,1,Villa,28,208.41
+446,Hyderabad,2395,2,Independent House,7,424.91
+447,Delhi,3233,1,Apartment,16,619.62
+448,Chennai,1125,4,Villa,6,238.26
+449,Bangalore,3859,4,Independent House,0,934.46
+450,Mumbai,3401,5,Independent House,12,740.81
+451,Bangalore,2186,2,Apartment,29,375.57
+452,Chennai,3509,6,Independent House,22,558.73
+453,Delhi,654,5,Apartment,18,163.65
+454,Kolkata,3037,2,Apartment,26,361.34
+455,Pune,1909,5,Villa,23,262.41
+456,Bangalore,1284,6,Independent House,18,299.58
+457,Delhi,3675,3,Apartment,29,627.06
+458,Chennai,3964,3,Apartment,29,528.18
+459,Mumbai,745,3,Independent House,28,150.47
+460,Delhi,3747,3,Independent House,16,740.91
+461,Hyderabad,3610,1,Apartment,12,585.41
+462,Kolkata,2000,3,Apartment,28,229.75
+463,Delhi,2205,6,Independent House,29,425.16
+464,Chennai,3306,4,Independent House,15,545.23
+465,Kolkata,1037,4,Villa,7,178.22
+466,Mumbai,2390,1,Villa,18,460.78
+467,Hyderabad,2341,3,Independent House,17,376.43
+468,Pune,1420,3,Independent House,0,252.48
+469,Kolkata,2955,3,Independent House,13,421.52
+470,Kolkata,1024,5,Independent House,18,153.6
+471,Pune,3375,2,Villa,14,463.67
+472,Delhi,2029,5,Apartment,17,426.55
+473,Pune,3450,2,Apartment,1,543.84
+474,Bangalore,535,3,Independent House,21,150.93
+475,Delhi,1184,3,Apartment,27,236.07
+476,Mumbai,519,5,Independent House,16,139.52
+477,Bangalore,2868,5,Villa,17,608.48
+478,Mumbai,3059,2,Independent House,29,532.44
+479,Chennai,899,4,Apartment,5,196.3
+480,Kolkata,3201,2,Apartment,18,409.78
+481,Pune,1471,5,Independent House,3,250.65
+482,Hyderabad,2406,6,Independent House,0,508.2
+483,Chennai,3018,5,Independent House,7,573.7
+484,Mumbai,1666,6,Villa,28,341.67
+485,Mumbai,1615,1,Apartment,22,326.55
+486,Bangalore,3925,5,Villa,6,900.97
+487,Chennai,1333,1,Apartment,2,230.59
+488,Delhi,2323,4,Apartment,9,531.94
+489,Mumbai,3274,2,Apartment,9,673.49
+490,Bangalore,2482,6,Apartment,18,526.4
+491,Kolkata,1353,2,Independent House,13,210.21
+492,Pune,550,1,Apartment,1,94.83
+493,Pune,1074,6,Villa,27,163.2
+494,Kolkata,3761,2,Apartment,0,602.36
+495,Bangalore,1648,5,Villa,22,345.02
+496,Hyderabad,2697,3,Villa,22,419.36
+497,Kolkata,2861,1,Apartment,27,321.87
+498,Chennai,3117,2,Apartment,17,489.4
+499,Hyderabad,3913,1,Villa,6,661.19
+500,Pune,2852,1,Apartment,28,310.4
